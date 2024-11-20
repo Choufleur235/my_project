@@ -1,2 +1,4 @@
 text a
 some text
+A change made locally
+another change on terminal
